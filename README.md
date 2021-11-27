@@ -1,7 +1,14 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=painkiller0513)]()
+### Languages
+
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Golang)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+
 
 <!--
 **painkiller0513/painkiller0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

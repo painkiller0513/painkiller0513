@@ -4,7 +4,7 @@
 ### Languages
 
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![C/C++](https://img.shields.io/badge/-C-000?&logo=C)
+![C/C++](https://img.shields.io/badge/-C/C++-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
